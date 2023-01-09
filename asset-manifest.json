@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/expense-project/static/css/main.7e1fe31e.css",
+    "main.js": "/expense-project/static/js/main.faca6203.js",
+    "static/media/Vector.svg": "/expense-project/static/media/Vector.538d2d80974c2d07e71b.svg",
+    "index.html": "/expense-project/index.html",
+    "main.7e1fe31e.css.map": "/expense-project/static/css/main.7e1fe31e.css.map",
+    "main.faca6203.js.map": "/expense-project/static/js/main.faca6203.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7e1fe31e.css",
+    "static/js/main.faca6203.js"
+  ]
+}
